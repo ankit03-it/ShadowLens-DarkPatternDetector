@@ -1,0 +1,322 @@
+﻿ID,TEXT,LABEL,SOURCE_SITE
+1,limited time deal,fake_urgency,Amazon
+2,deal selling fast,fake_urgency,Amazon
+3,offer ends in 15:00,fake_urgency,Amazon
+4,"Save ₹1,000 with coupon",neutral,Amazon
+5,#1 Best Seller,neutral,Amazon
+6,Only 1 left in stock.,fake_scarcity,Amazon
+7,500+ bought in past month,fake_scarcity,Amazon
+8,Up to 5% back with Amazon Pay Iater,neutral,Amazon
+9,10% welcome cashback* on business purchases,neutral,Amazon
+10,Product Starting at ₹199,neutral,Amazon
+11,Up to 80% off,neutral,Amazon
+12,9K+ bought in past month,fake_scarcity,Amazon
+13,"FREE delivery Fri, 13 Mar on ₹499 of items fulfilled by Amazon",neutral,Amazon
+14,Enjoy Unlimited FREE Same day/1-day delivery,neutral,Amazon
+15,9 months and above No Cost EMI,neutral,Amazon
+16,6 months No Cost EMI | Shop now,neutral,Amazon
+17,Hot new releases,neutral,Amazon
+18,"Under ₹1,000",neutral,Amazon
+19,Only 2 left in stock,fake_scarcity,Amazon
+20,Buy 5 get extra 5% off,neutral,Amazon
+21,Flat 50% off,neutral,Amazon
+22,Exclusive Offers Up To 45% Off,neutral,Amazon
+23,Ends in 1:00:15,fake_urgency,Amazon
+24,Sponsored,neutral,Amazon
+25,10% instant discount,neutral,Amazon
+26,Big Saving Days,neutral,Amazon
+27,₹2000 off on exchange,neutral,Amazon
+28,No. 1 choice of 10M users,fake_scarcity,Amazon
+29,Sell and get 4% extra value,neutral,Flipkart
+30,Best Seller with Hot Deal,fake_scarcity,Flipkart
+31,Apply Offers for Maximum Savings,neutral,Flipkart
+32,Up to 80% off,neutral,Flipkart
+33,min 70% off,neutral,Flipkart
+34,Get 5% cashback,neutral,Flipkart
+35,Top Deals,neutral,Flipkart
+36,Suggested for you,neutral,Flipkart
+37,Top Deals On Tech,neutral,Flipkart
+38,New deals Every Hour,fake_urgency,Flipkart
+39,Top Trendy Deas,neutral,Flipkart
+40,Earn 100% coin back,neutral,Flipkart
+41,60-90% off,neutral,Flipkart
+42,50 fantastic deals,neutral,Flipkart
+43,Sale of the day,fake_urgency,Flipkart
+44,Irresistable Deals,neutral,Flipkart
+45,Best Deals On Exchange,neutral,Flipkart
+46,12 months no cost emi offer,neutral,Flipkart
+47,Deals you'll say WoW!,neutral,Flipkart
+48,Summer Steal Deals Ends in 01:00:59,fake_urgency,Flipkart
+49,Dhamaka Price Cash Ends in 00d:12h:08m:20s,fake_urgency,Flipkart
+50,Lowest Price: Only on LIVE,fake_urgency,Flipkart
+51,"Buy ₹750 more, save extra ₹75",neutral,Flipkart
+52,"Buy 3 items, save extra ₹100",neutral,Flipkart
+53,Deals for The Weekend,fake_urgency,Flipkart
+54,We have 1 left at this price,fake_scarcity,Flipkart
+55,Early 2026 Deal,neutral,Flipkart
+56,10% discount on car rental,neutral,Flipkart
+57,Limited-time Deal,fake_urgency,Booking.com
+58,We have 6 left,fake_scarcity,Booking.com
+59,Highly rated by recent guests,fake_scarcity,Booking.com
+60,No payment today. You'll pay when you stay.,neutral,Booking.com
+61,Cheapest direct,neutral,Booking.com
+62,Flexible ticket upgrade available,neutral,Booking.com
+63,See what guests loved the most,neutral,Booking.com
+64,12% discount applied,neutral,Booking.com
+65,"Sign in, save money",neutral,Booking.com
+66,Only 3 left on our site,fake_scarcity,Booking.com
+67,Book your next trip for less,neutral,Booking.com
+68,Offer Ends in 9d:8h:19m,fake_urgency,Booking.com
+69,"With exclusive prices, our packages save you both time and money.",neutral,Booking.com
+70,5 million+ reviews,fake_scarcity,Booking.com
+71,Save 10% on select rental cars,neutral,Booking.com
+72,9 people are looking right now,fake_scarcity,Booking.com
+73,In high demand,fake_scarcity,Booking.com
+74,Great Value Today,neutral,Booking.com
+75,Guest Favourite,fake_scarcity,Booking.com
+76,"the home is in the top 10% of the eligible listings based on reatings,review and reliability",fake_scarcity,Booking.com
+77,"Act fast, only 7 hours left to book",fake_urgency,Booking.com
+78,The host will stop accepting bookings for your dates soon,fake_urgency,Booking.com
+79,get FLAT 12% OFF* on your first domestic flight booking,neutral,Airbnb
+80,"Flat 15% Instant Discount* on Domestic Hotels, Apartments & Villas and International Hotels",neutral,Airbnb
+81,Grab up to 30% Instant Discount* + Avail Interest Free EMI*,neutral,Airbnb
+82,Grab Up to 15% OFF* on Domestic & International Hotels,neutral,Airbnb
+83,"Upto 20% Instant Discount* on flights, hotels, buses & cabs",neutral,MakeMyTrip
+84,FLAT 25% OFF* on our Zero Cancellation Feature,neutral,MakeMyTrip
+85,Up to 10% Additional OFF* Per Holiday Package Booking,neutral,MakeMyTrip
+86,FREE* Kimono Dress & Japanese Treats with Holiday Package Bookings,neutral,MakeMyTrip
+87,FLAT 50% OFF* on Full Refund on Visa Rejection,neutral,MakeMyTrip
+88,"Save on Round Trip Bookings:  FLAT ₹2,250 OFF*",neutral,MakeMyTrip
+89,"Save on One-way Bookings: FLAT ₹1,500 OFF*",neutral,MakeMyTrip
+90,FLAT 50% OFF* use code,neutral,MakeMyTrip
+91,Flat 12% off up to Rs. 1500 on your first domestic flight booking!,neutral,MakeMyTrip
+92,FLAT 10% Instant Discount* on Bus Bookings,neutral,MakeMyTrip
+93,FLAT 10% Instant Discount* on Bus Bookings,neutral,MakeMyTrip
+94,Grab up to ₹50 OFF* on booking your first train ticket,neutral,MakeMyTrip
+95,"Grab Up To ₹10,000 OFF* on booking your first holiday package.",neutral,MakeMyTrip
+96,Grab Up to 40% OFF*,neutral,MakeMyTrip
+97,"fares starting only at @ ₹23,133*.",neutral,MakeMyTrip
+98,Get Up to 15% OFF* on AirAsia Flights,neutral,MakeMyTrip
+99,"Flat 12% Instant Discount up to INR 1,800 , on Domestic Flights",neutral,MakeMyTrip
+100,"Flat 10% Instant Discount (up to INR 5,000) , on International Flights",neutral,MakeMyTrip
+101,FLAT ₹20 OFF* on train bookings,neutral,MakeMyTrip
+102,Grab up to 30% Instant Discount*,neutral,MakeMyTrip
+103,Enjoy Up to 15% instant discount* on Hotels,neutral,MakeMyTrip
+104,Get up to 27.5% Instant Discount* + Interest-free EMI on domestic & international flights + hotels & Holiday packages.,neutral,MakeMyTrip
+105,"Get up to ₹40 OFF* , on Train",neutral,MakeMyTrip
+106,Upto ₹1000 OFF* on Outstation Cabs,neutral,MakeMyTrip
+107,FLAT 50% OFF* on Any One Cab Add-on,neutral,MakeMyTrip
+108,FLASH DEAL: FLAT ₹100 OFF* on Bus Bookings,fake_urgency,MakeMyTrip
+109,MMTBLACK SPECIAL: FLAT ₹150 OFF*,neutral,MakeMyTrip
+110,Save up to ₹250*,neutral,MakeMyTrip
+111,Grab up to 15% OFF*,neutral,MakeMyTrip
+112,Save Big on Your Next Getaway with Up to 15% OFF*,neutral,MakeMyTrip
+113,FLAT 10% OFF* on Primo Bus Bookings,neutral,MakeMyTrip
+114,Grab Upto 12% OFF* on Domestic Flights!,neutral,MakeMyTrip
+115,Save BIG on Stays with FLAT 15% OFF*,neutral,MakeMyTrip
+116,Expires in 09h:08m,fake_urgency,MakeMyTrip
+117,Expires on 31 Mar,fake_urgency,MakeMyTrip
+118,Amazing Deal for You: Grab FLAT 10% OFF* ,neutral,MakeMyTrip
+119,EPIC SAVINGS ON YOUR TRIPS,neutral,MakeMyTrip
+120,For You: Up to ₹40 OFF*,neutral,MakeMyTrip
+121,Special Offers,neutral,makeMyTrip
+122,"NEW CUSTOMER OFFER Upto ₹7,500 Cashback!",neutral,makeMyTrip
+123,"Your subscription starts, unless you've cancelled during the trial",forced_continuity,makeMyTrip
+124,Welcome back! Continue with Google,neutral,makeMyTrip
+125,"Contact our sales team. We can give you a demo, help you choose the best plan, or create a personalised package to help your organisation get the most out of Canva.",neutral,makeMyTrip
+126,"By submitting this form, you agree to receive marketing and information from Canva",hidden_subscription,makeMyTrip
+127,You can opt out at any time by clicking unsubscribe.,neutral,Canva
+128,"With Pro, unlock: premium tools to create faster",neutral,Canva
+129,AI usage limits: High vs Higher,neutral,Canva
+130,"Yearly: Best Value - Save ₹1,300",neutral,Canva
+131,Requiring Credit Card for a ₹0 transaction.,forced_continuity,Canva
+132,We will remind you before your free trial ends,neutral,Canva
+133,Accept All Cookies,hidden_subscription,Canva
+134,You and anyone sharing this membership will lose storage,confirmshaming,Canva
+135,"If you cancel your subscription now, your Go access will end on Apr 10, 2026. Any discounts applied will be removed, and can't be used again.",obstruction,Canva
+136,Grab FLAT 8% OFF* on Buses,neutral,Canva
+137,Get Up to INR 7500 Cashback*,neutral,Canva
+138,Travel All Around the World with Up to 25% OFF*,neutral,Gemini
+139,Save Big on Your Next Getaway with Up to 15% OFF*,neutral,ChatGPT
+140,Save Big on Your Next Trip,neutral,makeMyTrip
+141,Fly-tastic Deal for You,neutral,makeMyTrip
+142,"Up to 40% OFF* on Flights, Stays, Packages & More",neutral,makeMyTrip
+143,EPIC Deals for You,neutral,makeMyTrip
+144,Up to ₹5000 instant discount,neutral,makeMyTrip
+145,Get up to 25% off* on tours & attractions,neutral,makeMyTrip
+146,Starts in 23h:25m,fake_urgency,makeMyTrip
+147,Big Domain Savings,neutral,makeMyTrip
+148,Save 86% | ₹ 99.00 for .in or .co.in †New customers only. 1-year term.,neutral,makeMyTrip
+149,"At 86% off, who could say no?",confirmshaming,makeMyTrip
+150,Premium Auction Event,neutral,makeMyTrip
+151,Starting at₹ 1.00‬,neutral,GoDaddy
+152,Save up to 60% on all TLDs we offer,neutral,GoDaddy
+153,Enjoy VIP savings on domain names and related services,neutral,GoDaddy
+154,Our customers say Excellent,fake_scarcity,GoDaddy
+155,"4.5 out of 5 stars based on 132,419 reviews",fake_scarcity,GoDaddy
+156,SAVE 57% WITH ANNUAL PLAN,neutral,GoDaddy
+157,Bring your website to life in minutes.,neutral,GoDaddy
+158,Accept non-essential cookies,hidden_subscription,GoDaddy
+159,"Trusted by 50,000 organizations and 40 million people.",fake_scarcity,GoDaddy
+160,You also agree to receive product-related marketing emails,hidden_subscription,GoDaddy
+161,Want help faster? Log in now. We can help you more efficiently if you log in.,neutral,GoDaddy
+162,"50,000 organizations use Grammarly to improve their communication.",fake_scarcity,Grammarly
+163,"By contacting sales, you agree to the Terms and Conditions and Privacy Policy. California residents, see our CA Privacy Notice.",neutral,Grammarly
+164,Tackle the blank page,neutral,Grammarly
+165,Activate Smarty when you see this window to save! ... Upgrade to Smarty Plus for 7% Cash Back,neutral,Grammarly
+166,Make mistake-free writing your superpower.,neutral,Grammarly
+167,"Trusted by over 3,000 institutions",fake_scarcity,Grammarly
+168,See why students and faculty alike trust Grammarly.,fake_scarcity,Grammarly
+169,Impactful AI for the entire institution,neutral,Grammarly
+170,         Customers report 17x ROI across every workflow and team. See how these departments make an impact with Grammarly.,fake_scarcity,Grammarly
+171,Congratulations! Exclusive Discount of INR 2278 Applied on your first booking,neutral,Grammarly
+172,Last minute deal,fake_urgency,Grammarly
+173,Special discount of ₹287 applied. Valid for first 5 bookings of this property,fake_scarcity,Grammarly
+174,Lock this price in 01h:20m:59s,fake_urgency,Grammarly
+175,Will sell out in 3 days,fake_urgency,makeMyTrip
+176,Trusted by 1lakh+ users,fake_scarcity,makeMyTrip
+177,Only 10 Seats Left,fake_scarcity,makeMyTrip
+178,In high demand!,fake_scarcity,makeMyTrip
+179,"Yes, Secure my trip.",neutral,makeMyTrip
+180,"No, I will book without trip secure.",confirmshaming,makeMyTrip
+181,Few seats left,fake_scarcity,makeMyTrip
+182,Limited Period Offer,fake_urgency,Goibibo
+183,Goibibo Ratings - Highest First,neutral,Goibibo
+184,Get exclusive deals & Manage your trips Login/SignUp,obstruction,Goibibo
+185,Daily Steal Deal Ends in 11h:34m:59s,fake_urgency,Goibibo
+186,Book now and save BIG on your next stay! Tap to apply now,fake_urgency,Goibibo
+187,Earn 100 goCash on Sign Up & Cashback on Bookings,neutral,Goibibo
+188,Complete 3 more bookings* & unlock goTribe2,fake_urgency,Goibibo
+189,💣 00h:54m:03s,fake_urgency,meesho
+190,Use an organization email to easily collaborate with teammates,neutral,Notion
+191,Notion is 50% faster with the desktop app. Plus access app-exclusive features,neutral,Notion
+192,Notion is best paired with Calendar. Bring your work and life together with a seamlessly integrated calendar,neutral,Notion
+193,People are Freaking Out Over this Crispy French Fry Hack,fake_urgency,delish
+194,"No thanks, I don't want delicious recipes",confirmshaming,delish
+195,"Unlock access to over 50,000+ expertly tested recipes. SUBSCRIBE TODAY>>",fake_urgency,epicurious
+196,"Annual, billed monthly",obstruction,Adobe
+197,Purchase or cancel by phone,obstruction,Adobe
+198,Add a 30-day free trial of Adobe Stock,forced_continuity,Adobe
+199,"Should you cancel after 14 days, you’ll be charged a lump sum amount of 50% of your remaining contract obligation and your service will continue until the end of that month’s billing period.",obstruction,Adobe
+200,"You'll lose access to 20,000+ fonts",confirmshaming,Adobe
+201,"Buy now, you wont lose out",fake_urgency,cult.fit
+202,"No, I don't want to reach my fitness goals.",confirmshaming,cult.fit
+203,I prefer paying full price.,confirmshaming,Lenskart
+204,"No, I don't want a sweeter deal",confirmshaming,Dominos
+205,FREE Delivery for Orders Above rs 149,neutral,Dominos
+206,Wait! You forgot...,fake_urgency,Dominos
+207,"No thanks, I'll pass",neutral,Dominos
+208,LATE NIGHT SURCHARGE. A surcharge of 10% will apply to all customer orders made after 10pm.,neutral,Dominos
+209,Platform Fee added,obstruction,Swiggy
+210,Get Free Delivery on this order! Join Swiggy One.,forced_continuity,Swiggy
+211,"No, I'll pay ₹45 for delivery",confirmshaming,Swiggy
+212,High demand! Delivery prices may rise soon,fake_urgency,Swiggy
+213,Add ₹3 to your bill to feed the hungry (pre Selected),hidden_subscription,Swiggy
+214,Valid only on orders above ₹999. Maximum discount ₹120.,neutral,Swiggy
+215,Price dropping in 10 mins! Hurry!,fake_urgency,Instamart
+216,Recommended for you.,neutral,Instamart
+217,Join Zomato Gold to get FREE delivery on this order!,forced_continuity,Zomato
+218,"By starting your trial, you authorize us to charge your payment method unless you cancel before trial ends",forced_continuity,Adobe Acrobat
+219,Offer ends in 6 days,fake_urgency,Spotify
+220,"Try 3 months for ₹49, then ₹199/month after",forced_continuity,Spotify
+221,"Try 2 months for ₹99, then ₹99/month after",forced_continuity,Spotify
+222,Support Feeding India. Add ₹3 to your order (pre selected),hidden_subscription,Zomato
+223,Up to ₹120. Valid on orders above ₹800.,neutral,Zomato
+224,Forgot a cold drink? Get it in 10 mins from Blinkit,neutral,Blinkit
+225,Add items worth ₹46 more to avoid ₹15 Small Cart Fee,confirmshaming,Blinkit
+226,Carry Bag added - ₹4(pre selected),hidden_subscription,Blinkit
+227,Proceed without free delivery,confirmshaming,Zepto
+228,Add items worth ₹78 more to get FREE delivery,fake_urgency,Zepto
+229,Rain surge active. Order now,fake_urgency,Zepto
+230,Get PRO 70% OFF 13:59,fake_urgency,infatuated.ai
+231,Medium AI preference default selection,neutral,Medium
+232,Start 7-day Free Trial,forced_continuity,Coursera
+233,"Join the 91% of learners who achieved a positive career outcome, like new job opportunities, increased knowledge, and improved performance at work.",neutral,Coursera
+234,Most popular plan tag,fake_scarcity,Coursera
+235,"₹13,999 ₹7,999/year Unlimited learning—Now ₹7,999/year",fake_urgency,Coursera
+236,"₹2,099/month, cancel anytime",neutral,Coursera
+237,Filling Fast,fake_scarcity,BookMyShow
+238,Add ₹1 to your ticket to support a child's education.(pre-selected),forced_continuity,BookMyShow
+239,Buy 1 Get 1 FREE on Kotak Cards,neutral,PVR
+240,Session expiring soon!,fake_urgency,PVR
+241,Only 2 tables left for 8:00 PM.,fake_scarcity,District
+242,"Join Gold to waive the ₹2,000 cover charge.",obstruction,District
+243,"No, I prefer paying the cover charge.",confirmshaming,District
+244,Your Captain has already traveled 1.5 km to reach you. Are you sure you want to cancel?,confirmshaming,Rapido
+245,"Yes, cancel anyway",neutral,Rapido
+246,Low Balance. Add ₹100 to book your ride.,neutral,Rapido
+247,Fares are slightly higher due to high demand in your area.,neutral,Rapido
+248,Set up Accounts Center to sync your profile info and find your friends.,neutral,Instagram
+249,Continue reading this article with Cricbuzz Plus.,obstruction,Cricbuzz
+250,Turn on notifications for live score updates and breaking news.,neutral,Cricbuzz
+251,Your fantasy team is waiting! Play now and get a ₹500 bonus.,fake_urgency,Cricbuzz
+252,"Add ₹100, Get ₹100 Cash Bonus!",fake_urgency,Dream 11
+253,A maximum of 10% of the contest entry fee can be paid using Cash Bonus.,neutral,Dream 11
+254,₹1.5 Crores (1st Prize),fake_scarcity,Dream 11
+255,Join with multiple teams to increase your chances of winning.,obstruction,Dream 11
+256,Hot Deal! 4 people are viewing this car right now,fake_scarcity,cars 24
+257,"Your highest offer expires in 23:59:59. Market prices are dropping, accept now!",fake_urgency,cars 24
+258,"Book now for ₹5,000 (Fully Refundable)",neutral,cars24
+259,I'm willing to risk my trip,confirmshaming,Goibibo
+260,Your 5 minutes of free preview are over. Subscribe to continue watching.,forced_continuity,Hotstar
+261,Upgrade to Premium to watch in 4K / stream on 4 devices.,neutral,Hotstar
+262,Are you sure you want to miss out on unlimited entertainment?,confirmshaming,Hotstar
+263,Match is slipping away! India needs 45 off 20. Watch LIVE now.,fake_urgency,Hotstar
+264,Get FREE Delivery Tomorrow with Prime,neutral,Amazon Prime
+265,Go Ad-Free for $2.99/month.,neutral,Amazon Prime
+266,"By continuing, you agree to enroll in our monthly plan after the trial ends.",hidden_subscription,anonymous
+267,Free trial available. Payment details required.,hidden_subscription,anonymous
+268,Start your free experience today. No charges now.,hidden_subscription,anonymous
+269,Enjoy premium features free for 7 days. ,hidden_subscription,anonymous
+270,Try premium risk-free. Cancel anytime.,hidden_subscription,anonymous
+272,Unlock full access with a free trial. ,hidden_subscription,anonymous
+272,No payment today. Continue instantly.,hidden_subscription,anonymous
+273,Get started for free. Upgrade happens automatically.,hidden_subscription,anonymous
+274,Trial activated. Premium access continues unless canceled.,hidden_subscription,anonymous
+275,7-day trial with uninterrupted service after expiry.,hidden_subscription,anonymous
+276,Start free trial. Subscription begins after trial. ,hidden_subscription,anonymous
+277,Access all features during trial period.,hidden_subscription,anonymous
+278,Activate your free plan now.,hidden_subscription,anonymous
+279,Continue without interruption after trial ends.,hidden_subscription,anonymous
+280,Premium unlocked. Enjoy now.,hidden_subscription,anonymous
+281,Start exploring premium features instantly.,hidden_subscription,anonymous
+282,Try now. No upfront payment required.,hidden_subscription,anonymous
+283,Experience premium today.,hidden_subscription,anonymous
+284,"No thanks, I don’t want to improve my experience.",confirmshaming,anonymous
+285,I prefer missing out on premium features.,confirmshaming,anonymous
+286,"No, I don’t want better performance.",confirmshaming,anonymous
+287,I’m okay with limited access.,confirmshaming,anonymous
+288,I don’t care about exclusive benefits.,confirmshaming,anonymous
+289,"No, I don’t want to save money.",confirmshaming,anonymous
+290,"No, I’m fine with ads.",confirmshaming,anonymous
+291,I don’t want faster service.,confirmshaming,anonymous
+292,"No, I don’t want extra rewards.",confirmshaming,anonymous
+293,I’ll skip better features.,confirmshaming,anonymous
+294,"No, I don’t want priority support.",confirmshaming,anonymous
+295,I don’t need premium access.,confirmshaming,anonymous
+296,"No, I’m okay with fewer benefits.",confirmshaming,anonymous
+297,I don’t want to upgrade my experience.,confirmshaming,anonymous
+298,"No thanks, I’ll stick with basic features.",confirmshaming,anonymous
+299,I don’t want the best experience.,confirmshaming,anonymous
+300,Your subscription will automatically renew unless canceled before the billing date.,forced_continuity,anonymous
+301,Subscription renews monthly by default.,forced_continuity,anonymous
+302,Auto-renewal is enabled for uninterrupted service.,forced_continuity,anonymous
+303,You will be billed automatically at the end of your plan.,forced_continuity,anonymous
+304,Your plan renews automatically every 30 days.,forced_continuity,anonymous
+305,Service continues seamlessly after payment cycle.,forced_continuity,anonymous
+306,Recurring billing is enabled for your convenience.,forced_continuity,anonymous
+307,Subscription stays active unless manually canceled.,forced_continuity,anonymous
+308,Plan auto-renews to avoid service interruption.,forced_continuity,anonymous
+309,Your membership continues automatically.,forced_continuity,anonymous
+310,Billing repeats every month automatically.,forced_continuity,anonymous
+311,Auto-renewal ensures uninterrupted access.,forced_continuity,anonymous
+312,Renewal will be processed automatically.,forced_continuity,anonymous
+313,Subscription will extend automatically at the end of the period.,forced_continuity,anonymous
+314,Continuous access enabled via auto-renewal.,forced_continuity,anonymous
+315,Your plan will renew automatically using your saved payment method.,forced_continuity,anonymous
+316,Email categories default to subscribed,hidden_subscription,Nextdoor
+317,Automatic currency conversion applied,hidden_subscription,PayPal
+318,Age verification required to view profile,neutral,Reddit
+319,Delete account option hidden in help center requiring multiple steps or support request,obstruction,Meesho
+320,Update payment method redirects to choose new plan,obstruction,NordVPN
+321,Default refund option sends money to Klarna balance,obstruction,Klarna
