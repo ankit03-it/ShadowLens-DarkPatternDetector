@@ -320,3 +320,218 @@
 319,Delete account option hidden in help center requiring multiple steps or support request,obstruction,Meesho
 320,Update payment method redirects to choose new plan,obstruction,NordVPN
 321,Default refund option sends money to Klarna balance,obstruction,Klarna
+322,"Cancel anytime? Just call our premium support line Mon-Fri 10-11 AM only.",obstruction,anonymous
+323,"Free trial for 7 days – then ₹499 automatically charged to your card.",forced_continuity,anonymous
+324,"Only 2 seats left at this price – book immediately!",fake_scarcity,anonymous
+325,"Wait! Are you sure you want to leave without your 20% discount?",confirmshaming,anonymous
+326,"Your free trial includes auto-renewal unless cancelled 48 hours before.",hidden_subscription,anonymous
+327,"Last chance – offer expires in 5 minutes!",fake_urgency,anonymous
+328,"To cancel subscription, send a physical letter to our headquarters.",obstruction,anonymous
+329,"Limited stock – only 1 item per customer remains.",fake_scarcity,anonymous
+330,"No thanks, I prefer paying full price instead of saving ₹500.",confirmshaming,anonymous
+331,"Your plan converts to ₹999/month automatically after trial ends.",forced_continuity,anonymous
+332,"Price drops in 0:03:00 – hurry before it rises again!",fake_urgency,anonymous
+333,"Cancel membership requires filling form and uploading ID proof.",obstruction,anonymous
+334,"Hurry – 10 people are viewing this product right now.",fake_urgency,anonymous
+335,"Only 3 left in stock – will sell fast.",fake_scarcity,anonymous
+336,"Decline free shipping? Click 'Proceed without offer'.",confirmshaming,anonymous
+337,"We'll auto-renew your annual plan at ₹4999 unless you call us.",forced_continuity,anonymous
+338,"Sale ends in 0:02:15 – don't miss out!",fake_urgency,anonymous
+339,"Free 30 days, then ₹1499 automatically every month.",hidden_subscription,anonymous
+340,"Skip the ₹1000 cashback? Confirm your choice.",confirmshaming,anonymous
+341,"Last 5 units available in warehouse.",fake_scarcity,anonymous
+342,"To cancel, chat with bot, get ticket, then email within 7 days.",obstruction,anonymous
+343,"Offer ends in 0:00:45 seconds – grab now!",fake_urgency,anonymous
+344,"Don't want double reward points? Click 'No thanks'.",confirmshaming,anonymous
+345,"Only 8 left – almost gone forever.",fake_scarcity,anonymous
+346,"Trial starts today – ₹299 charged automatically on day 15.",forced_continuity,anonymous
+347,"Flash sale – expires in 0:01:30",fake_urgency,anonymous
+348,"Cancel by mailing us and waiting 10 business days for processing.",obstruction,anonymous
+349,"Limited edition – only 4 pieces remain.",fake_scarcity,anonymous
+350,"No thanks, I'll pay without the 40% coupon.",confirmshaming,anonymous
+351,"Your card will be charged ₹799 every month after free trial.",hidden_subscription,anonymous
+352,"Price increases in 0:00:20 – buy now!",fake_urgency,anonymous
+353,"Ignore 50% off? Press 'Continue without discount'.",confirmshaming,anonymous
+354,"Only 2 items left – last chance to buy.",fake_scarcity,anonymous
+355,"Cancel via phone, then confirm cancellation via email link.",obstruction,anonymous
+356,"Free week, then ₹99 weekly auto-debit.",forced_continuity,anonymous
+357,"Deal ends in 0:04:00 – hurry up!",fake_urgency,anonymous
+358,"Skip the free gift? Proceed to checkout.",confirmshaming,anonymous
+359,"Last 6 in stock – limited availability.",fake_scarcity,anonymous
+360,"Unsubscribe requires visiting office during 9-5 on weekdays.",obstruction,anonymous
+361,"Limited time deal – ends in 0:02:45",fake_urgency,anonymous
+362,"Refuse ₹200 off? Click 'Reject offer'.",confirmshaming,anonymous
+363,"1 left – almost sold out!",fake_scarcity,anonymous
+364,"14 days free, then ₹1999 annual auto-renewal.",hidden_subscription,anonymous
+365,"Cancel by filling PDF, printing, scanning, and emailing.",obstruction,anonymous
+366,"Sale ends in 0:00:55 – don't regret!",fake_urgency,anonymous
+367,"No thanks, I'll miss this exclusive deal.",confirmshaming,anonymous
+368,"Only 7 remaining – price rises soon.",fake_scarcity,anonymous
+369,"Trial auto-renews at ₹599 after 7 days.",forced_continuity,anonymous
+370,"Offer expires in 0:03:15 – act fast!",fake_urgency,anonymous
+371,"Skip the warranty? Confirm your choice.",confirmshaming,anonymous
+372,"Last 3 items in this color available.",fake_scarcity,anonymous
+373,"To cancel, send a self-addressed stamped envelope to our office.",obstruction,anonymous
+374,"Flash sale – 0:01:00 left on timer",fake_urgency,anonymous
+375,"Don't want free delivery? Proceed without offer.",confirmshaming,anonymous
+376,"Limited production – only 10 units made.",fake_scarcity,anonymous
+377,"Free month, then ₹499 monthly auto-debited.",hidden_subscription,anonymous
+378,"Deal closes in 0:00:30 – hurry!",fake_urgency,anonymous
+379,"Cancel via app, then call to verify identity within 3 days.",obstruction,anonymous
+380,"No thanks, I'll pass on the extra 15% off.",confirmshaming,anonymous
+381,"Only 2 left – selling fast!",fake_scarcity,anonymous
+382,"Your plan renews automatically every year on same date.",forced_continuity,anonymous
+383,"Price valid for next 0:02:30 only.",fake_urgency,anonymous
+384,"Skip the ₹300 cashback? Click 'No discount'.",confirmshaming,anonymous
+385,"Last 9 in stock worldwide – rare item.",fake_scarcity,anonymous
+386,"Cancel by emailing us and waiting 14 days for confirmation.",obstruction,anonymous
+387,"Offer ends in 0:00:12 – grab now!",fake_urgency,anonymous
+388,"Don't want an extra year of coverage? Proceed.",confirmshaming,anonymous
+389,"Only 4 items left – limited stock alert.",fake_scarcity,anonymous
+390,"7-day free trial, then $9.99 weekly auto-charge.",hidden_subscription,anonymous
+391,"Sale ends in 0:01:45 – don't wait!",fake_urgency,anonymous
+392,"To cancel, speak to retention specialist first.",obstruction,anonymous
+393,"Refuse 25% off? Confirm cancellation of discount.",confirmshaming,anonymous
+394,"Limited availability – 1 item per household.",fake_scarcity,anonymous
+395,"Free trial ends tomorrow – ₹799 auto-paid.",forced_continuity,anonymous
+396,"Deal expires in 0:00:08 – hurry up!",fake_urgency,anonymous
+397,"No thanks, I'll pay the full amount instead.",confirmshaming,anonymous
+398,"Only 5 remaining – almost out of stock.",fake_scarcity,anonymous
+399,"Cancel by logging in, clicking 5 menus, and verifying email.",obstruction,anonymous
+400,"Flash sale ends in 0:03:00 – act now!",fake_urgency,anonymous
+401,"Skip the bonus reward? Click 'Proceed without'.",confirmshaming,anonymous
+402,"Limited edition – only 3 pieces remain.",fake_scarcity,anonymous
+403,"30-day free, then ₹2499 auto-renew annually.",hidden_subscription,anonymous
+404,"Price increase in 0:00:40 – buy immediately!",fake_urgency,anonymous
+405,"Don't want free upgrade? Continue with basic plan.",confirmshaming,anonymous
+406,"Last 2 items – will go quickly.",fake_scarcity,anonymous
+407,"Cancel via phone between 10-11 AM only on Tuesdays.",obstruction,anonymous
+408,"Your subscription auto-renews unless cancelled 72 hours before.",forced_continuity,anonymous
+409,"Deal ends in 0:00:25 – last call!",fake_urgency,anonymous
+410,"No thanks, I'll lose the ₹1500 saving.",confirmshaming,anonymous
+411,"Only 8 left – hurry before they're gone.",fake_scarcity,anonymous
+412,"Cancel by mailing a notarized letter to our legal department.",obstruction,anonymous
+413,"Sale ends in 0:02:00 – don't miss!",fake_urgency,anonymous
+414,"Skip the free accessory? Click 'No thanks'.",confirmshaming,anonymous
+415,"Limited stock – 1 left in this variant.",fake_scarcity,anonymous
+416,"14-day trial, then ₹499 monthly auto.",hidden_subscription,anonymous
+417,"Flash sale – 0:01:20 remaining",fake_urgency,anonymous
+418,"To cancel, reply STOP to SMS, then click link in email.",obstruction,anonymous
+419,"Refuse 60% off? Proceed without discount.",confirmshaming,anonymous
+420,"Only 6 left – last chance to buy.",fake_scarcity,anonymous
+421,"Your free week ends tomorrow – ₹99 weekly auto-debited.",forced_continuity,anonymous
+422,"Your subscription will renew automatically at ₹999/month unless you cancel.",forced_continuity,anonymous
+423,"Free trial active. You will be charged ₹499 after 7 days.",forced_continuity,anonymous
+424,"By continuing, you agree to auto-renewal at the end of your billing cycle.",forced_continuity,anonymous
+425,"Your plan auto-renews every 30 days. No further action needed.",forced_continuity,anonymous
+426,"Enjoy 14 days free, then ₹1999 auto-debited annually.",forced_continuity,anonymous
+427,"Annual membership renews automatically using saved payment method.",forced_continuity,anonymous
+428,"Your card will be charged ₹799 on repeat every month.",forced_continuity,anonymous
+429,"Trial period ends in 3 days. Auto-charge of ₹299 will apply.",forced_continuity,anonymous
+430,"You are enrolled in automatic payments. Cancel anytime before renewal.",forced_continuity,anonymous
+431,"Your plan includes auto-renewal for convenience. ₹599/month thereafter.",forced_continuity,anonymous
+432,"This subscription renews automatically unless you turn off auto-renewal.",forced_continuity,anonymous
+433,"We'll automatically charge your card ₹1499 for the next term.",forced_continuity,anonymous
+434,"Free for first month, then ₹249 monthly auto-pay.",forced_continuity,anonymous
+435,"Your account will be charged ₹89/week automatically after trial.",hidden_subscription,anonymous
+436,"Email notifications enabled by default. You are now subscribed to marketing.",hidden_subscription,anonymous
+437,"Price shown includes automatic currency conversion at checkout.",hidden_subscription,anonymous
+438,"Premium features active. Standard billing applies after trial.",hidden_subscription,anonymous
+439,"Your saved card will be charged ₹499 for next billing cycle.",hidden_subscription,anonymous
+440,"Auto-renewal enabled. You will receive recurring charges every month.",hidden_subscription,anonymous
+441,"Subscription continues until cancelled. Next payment due in 7 days.",hidden_subscription,anonymous
+442,"You have been enrolled in automatic delivery every 30 days.",hidden_subscription,anonymous
+443,"Recurring billing active. ₹199 will be charged on the same date monthly.",hidden_subscription,anonymous
+444,"Your plan includes auto-renewal. Transaction will process automatically.",hidden_subscription,anonymous
+445,"Hurry! Only 2 left in stock – order soon.",fake_scarcity,anonymous
+446,"Limited availability – just 1 item remaining.",fake_scarcity,anonymous
+447,"Only 5 spots left at this price. Book now!",fake_scarcity,anonymous
+448,"Almost gone – 3 pieces left in warehouse.",fake_scarcity,anonymous
+449,"Limited stock alert: 1 unit per customer only.",fake_scarcity,anonymous
+450,"Last chance – only 4 items remaining.",fake_scarcity,anonymous
+451,"Price drops in 0:02:30 – buy before timer ends!",fake_urgency,anonymous
+452,"Offer expires in 0:01:15 – don't miss this deal!",fake_urgency,anonymous
+453,"Flash sale ends in 0:00:45 – hurry!",fake_urgency,anonymous
+454,"Only 0:03:00 left to claim your discount.",fake_urgency,anonymous
+455,"Deal ends in 5 minutes – act fast!",fake_urgency,anonymous
+456,"Sale closes in 0:01:30 – last call!",fake_urgency,anonymous
+457,"Expires in 0:00:20 – grab before it's gone!",fake_urgency,anonymous
+458,"Limited time: 0:02:00 remaining on this offer.",fake_urgency,anonymous
+459,"To cancel subscription, call our support line Mon-Fri 9-10 AM only.",obstruction,anonymous
+460,"Cancel your plan by mailing a physical letter to our office address.",obstruction,anonymous
+461,"Click here to cancel – wait, you must call us first to verify.",obstruction,anonymous
+462,"Cancel option hidden inside help center > billing > advanced > account closure.",obstruction,anonymous
+463,"You cannot cancel online. Please visit our store in person.",obstruction,anonymous
+464,"To stop auto-renewal, fill this PDF, print, scan, and email back.",obstruction,anonymous
+465,"Cancellation requires speaking to a retention agent for 10 minutes first.",obstruction,anonymous
+466,"We made cancelling easy – just chat, email, call, and confirm in writing.",obstruction,anonymous
+467,"Cancel button only appears after watching this 2-minute video.",obstruction,anonymous
+468,"Are you sure you want to leave without your 40% discount?",confirmshaming,anonymous
+469,"Wait! Don't go – you'll lose ₹1000 cashback.",confirmshaming,anonymous
+470,"No thanks, I'll pay full price instead of saving ₹200.",confirmshaming,anonymous
+471,"Skip free shipping? Click 'Proceed without offer'.",confirmshaming,anonymous
+472,"Decline 50% off? Press 'Continue without discount'.",confirmshaming,anonymous
+473,"You're leaving without your exclusive welcome bonus – confirm.",confirmshaming,anonymous
+474,"Ignore ₹500 coupon? Click 'No thanks' to proceed.",confirmshaming,anonymous
+475,"Refuse double reward points? Your loss – confirm.",confirmshaming,anonymous
+476,"Your account will be charged ₹99 monthly for premium features.",forced_continuity,anonymous
+477,"7-day free trial ends soon. Auto-pay of ₹899 will apply.",forced_continuity,anonymous
+478,"Recurring billing active – next charge ₹49 on Mar 30.",forced_continuity,anonymous
+479,"Trial converts to paid automatically. Cancel to avoid ₹599 charge.",forced_continuity,anonymous
+480,"Your plan includes seamless auto-renewal at ₹1299/year.",forced_continuity,anonymous
+481,"Marketing emails enabled by default. You can unsubscribe anytime.",hidden_subscription,anonymous
+482,"Auto-refill enabled for your monthly supply. Card will be charged.",hidden_subscription,anonymous
+483,"Your selected plan includes automatic billing every billing cycle.",hidden_subscription,anonymous
+484,"Recurring payment setup complete. No further action needed each month.",hidden_subscription,anonymous
+485,"Subscription auto-renews. You will receive invoice automatically.",hidden_subscription,anonymous
+486,"Only 3 items left – limited stock remaining.",fake_scarcity,anonymous
+487,"Last unit available – will sell quickly.",fake_scarcity,anonymous
+488,"Limited edition – only 2 pieces left in stock.",fake_scarcity,anonymous
+489,"Ending in 0:00:35 – hurry before price rises!",fake_urgency,anonymous
+490,"Sale ends in 0:01:50 – grab your deal now!",fake_urgency,anonymous
+491,"Flash sale: 0:02:10 remaining on this product.",fake_urgency,anonymous
+492,"To cancel account, send a notarized letter within 14 days.",obstruction,anonymous
+493,"Cancel subscription? Please call between 10-11 AM on weekdays only.",obstruction,anonymous
+494,"We've hidden cancel button in settings > account > billing > manage > cancel.",obstruction,anonymous
+495,"You must fill a cancellation form and wait 7 days for processing.",obstruction,anonymous
+496,"No thanks, I'll pass on the extra 30% off.",confirmshaming,anonymous
+497,"Skip the free accessory? Click 'Continue without gift'.",confirmshaming,anonymous
+498,"This product has 4.5 stars based on 12,000 reviews.",neutral,anonymous
+499,"Free delivery available for orders above ₹499.",neutral,anonymous
+500,"Available in 3 colors: Black, White, and Blue.",neutral,anonymous
+501,"Customer support available 24/7 via chat and email.",neutral,anonymous
+502,"Product dimensions: 10 x 5 x 2 inches.",neutral,anonymous
+503,"Manufacturer warranty included for 1 year.",neutral,anonymous
+504,"Ships within 2-3 business days.",neutral,anonymous
+505,"Return policy: 30-day easy returns.",neutral,anonymous
+506,"This item is eligible for free replacement.",neutral,anonymous
+507,"Battery life: Up to 12 hours of continuous use.",neutral,anonymous
+508,"Your membership auto-renews every year on the same date.",forced_continuity,anonymous
+509,"Free trial active. ₹399 will be charged automatically after 14 days.",forced_continuity,anonymous
+510,"Recurring billing enabled for your convenience. ₹649/month.",forced_continuity,anonymous
+511,"Subscription includes auto-pay. Next charge on April 15.",forced_continuity,anonymous
+512,"You have been subscribed to weekly newsletters by default.",hidden_subscription,anonymous
+513,"Auto-renewal active. Your plan extends automatically each month.",hidden_subscription,anonymous
+514,"Only 1 item left – last chance to buy.",fake_scarcity,anonymous
+515,"Limited stock – 4 items remaining.",fake_scarcity,anonymous
+516,"Deal ends in 0:00:10 – hurry!",fake_urgency,anonymous
+517,"Price valid for next 0:01:05 only.",fake_urgency,anonymous
+518,"Cancel by mailing us and waiting 10 business days for confirmation.",obstruction,anonymous
+519,"To stop auto-renewal, email support with 'CANCEL' and wait 72 hours.",obstruction,anonymous
+520,"No thanks, I'd rather pay more than save ₹300.",confirmshaming,anonymous
+521,"This offer is available while supplies last.",neutral,anonymous
+522,Browse products,neutral,anonymous
+523,Explore categories,neutral,anonymous
+524,View details,neutral,anonymous
+525,See more options,neutral,anonymous
+526,Load more results,neutral,anonymous
+527,Show similar items,neutral,anonymous
+528,Go to homepage,neutral,anonymous
+529,Search by category,neutral,anonymous
+530,Filter by price,neutral,anonymous
+531,Sort by rating,neutral,anonymous
+532,Compare products,neutral,anonymous
+533,Read full description,neutral,anonymous
+534,Check delivery options,neutral,anonymous
+535,View return policy,neutral,anonymous
+536,See all reviews,neutral,anonymous
