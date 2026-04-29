@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,800;0,900;1,800&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #1e1133;
+    font-family: 'DM Sans', sans-serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+  #root {
+    width: 100%;
+    height: 100%;
+  }
+
+  @keyframes float-animation {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+  }
+
+  .float-slow {
+    animation: float-animation 6s ease-in-out infinite;
+  }
+
+  /* Enhanced background animations */
+  @keyframes float-slow-large {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    33% { transform: translate(40px, -60px) scale(1.05); }
+    66% { transform: translate(-30px, 40px) scale(0.95); }
+  }
+
+  @keyframes float-medium {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    25% { transform: translate(60px, -40px) scale(1.08); }
+    50% { transform: translate(-50px, 60px) scale(0.92); }
+    75% { transform: translate(30px, -80px) scale(1.02); }
+  }
+
+  @keyframes float-fast {
+    0%, 100% { transform: translate(0, 0) rotate(0deg); }
+    50% { transform: translate(-80px, 80px) rotate(180deg); }
+  }
+
+  .animate-float-slow-large {
+    animation: float-slow-large 15s ease-in-out infinite;
+  }
+
+  .animate-float-medium {
+    animation: float-medium 12s ease-in-out infinite;
+  }
+
+  .animate-float-fast {
+    animation: float-fast 8s ease-in-out infinite;
+  }
+}
