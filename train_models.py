@@ -26,14 +26,12 @@ import matplotlib.pyplot as plt
 
 print("🔹 Loading dataset...")
 
-df = pd.read_csv("text_pattern.csv")
-
-# Normalize column names
+df = pd.read_csv("final_data.csv")   # ✅ USE FINAL DATA
 df.columns = df.columns.str.strip().str.lower()
 
-# Validate required columns
-if 'text' not in df.columns or 'label' not in df.columns:
-    raise Exception("❌ Dataset must contain 'text' and 'label' columns")
+if 'text' not in df.columns or 'pattern category' not in df.columns:
+    raise Exception("❌ Dataset must contain 'text' and 'pattern category'")
+
 
 # ================================
 # 2. CLEAN DATA
@@ -47,55 +45,65 @@ df = df.reset_index(drop=True)
 
 
 # ================================
-# 3. TEXT PREPROCESSING
+# 3. FIX CLASS NAMES (CRITICAL)
+# ================================
+
+print("🔹 Normalizing class labels...")
+
+df['pattern category'] = df['pattern category'].replace({
+    'scarcity': 'fake_scarcity',
+    'urgency': 'fake_urgency'
+})
+
+print("\n📊 FINAL CLASS DISTRIBUTION:")
+print(df['pattern category'].value_counts())
+
+
+# ================================
+# 4. TEXT PREPROCESSING
 # ================================
 
 def clean_text(text):
     text = str(text).lower()
 
-    # 🔥 keyword boost (controlled)
     urgency_words = ["hurry", "limited", "ends", "now", "only", "last", "today"]
     if any(word in text for word in urgency_words):
         text += " urgency_signal"
 
-    # Remove punctuation
     text = re.sub(r'[^\w\s]', '', text)
-
-    # Normalize spaces
     text = re.sub(r'\s+', ' ', text).strip()
 
     return text
 
 
-print("🔹 Applying text preprocessing...")
+print("🔹 Preprocessing text...")
 df['clean_text'] = df['text'].apply(clean_text)
 
 
 # ================================
-# 4. VECTORIZATION
+# 5. VECTORIZE
 # ================================
 
-print("🔹 Vectorizing text...")
+print("🔹 Vectorizing...")
 
 vectorizer = TfidfVectorizer(
     ngram_range=(1, 3),
-    max_features=1500,
+    max_features=2000,
     min_df=2
 )
 
 X = vectorizer.fit_transform(df['clean_text'])
-y = df['label']
+y = df['pattern category']   # ✅ MULTI-CLASS
 
 
 # ================================
-# 5. TRAIN-TEST SPLIT
+# 6. TRAIN TEST SPLIT
 # ================================
 
 print("🔹 Splitting dataset...")
 
 X_train, X_test, y_train, y_test = train_test_split(
-    X,
-    y,
+    X, y,
     test_size=0.2,
     random_state=42,
     stratify=y
@@ -103,7 +111,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 
 # ================================
-# 6. MODEL TRAINING
+# 7. TRAIN MODELS
 # ================================
 
 models = {
@@ -133,7 +141,7 @@ for name, model in models.items():
 
 
 # ================================
-# 7. BEST MODEL SELECTION
+# 8. BEST MODEL
 # ================================
 
 best_model_name = max(results, key=results.get)
@@ -144,25 +152,29 @@ print("Accuracy:", results[best_model_name])
 
 
 # ================================
-# 8. CONFUSION MATRIX
+# 9. CONFUSION MATRIX
 # ================================
 
 print("🔹 Generating confusion matrix...")
 
 y_pred_best = best_model.predict(X_test)
 
-cm = confusion_matrix(y_test, y_pred_best)
+cm = confusion_matrix(y_test, y_pred_best, labels=best_model.classes_)
 
-plt.figure(figsize=(8, 6))
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
+plt.figure(figsize=(12,8))
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
+            xticklabels=best_model.classes_,
+            yticklabels=best_model.classes_)
 plt.title(f"Confusion Matrix - {best_model_name}")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
+plt.xticks(rotation=45)
+plt.yticks(rotation=45)
 plt.show()
 
 
 # ================================
-# 9. SAVE MODEL + VECTORIZER
+# 10. SAVE MODEL
 # ================================
 
 print("🔹 Saving model and vectorizer...")
@@ -175,11 +187,14 @@ with open("models/best_model.pkl", "wb") as f:
 with open("models/vectorizer.pkl", "wb") as f:
     pickle.dump(vectorizer, f)
 
+with open("models/classes.pkl", "wb") as f:
+    pickle.dump(best_model.classes_, f)
+
 print("✅ Saved successfully")
 
 
 # ================================
-# 10. FINAL SUMMARY
+# 11. FINAL SUMMARY
 # ================================
 
 print("\n📊 FINAL RESULTS:")

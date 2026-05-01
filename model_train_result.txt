@@ -1,0 +1,93 @@
+PS D:\Dark Pattern Detector> python -u "d:\Dark Pattern Detector\train_models.py"
+🔹 Loading dataset...
+🔹 Cleaning data...
+🔹 Normalizing class labels...
+
+📊 FINAL CLASS DISTRIBUTION:
+pattern category
+none                   1351
+fake_scarcity           481
+social_proof            312
+fake_urgency            286
+misdirection            195
+obstruction              70
+forced_continuity        65
+confirmshaming           64
+hidden_subscription      62
+Name: count, dtype: int64
+🔹 Preprocessing text...
+🔹 Vectorizing...
+🔹 Splitting dataset...
+
+🚀 Training Models...
+
+🔹 Logistic Regression
+Accuracy: 0.8581
+                     precision    recall  f1-score   support
+
+     confirmshaming       0.69      0.69      0.69        13
+      fake_scarcity       0.99      0.92      0.95        96
+       fake_urgency       0.86      0.75      0.80        57
+  forced_continuity       0.55      0.85      0.67        13
+hidden_subscription       0.33      0.42      0.37        12
+       misdirection       0.77      0.69      0.73        39
+               none       0.89      0.90      0.89       271
+        obstruction       0.75      0.64      0.69        14
+       social_proof       0.87      0.97      0.92        63
+
+           accuracy                           0.86       578
+          macro avg       0.74      0.76      0.75       578
+       weighted avg       0.86      0.86      0.86       578
+
+--------------------------------------------------
+🔹 Naive Bayes
+Accuracy: 0.8374
+                     precision    recall  f1-score   support
+
+     confirmshaming       0.00      0.00      0.00        13
+      fake_scarcity       0.96      0.93      0.94        96
+       fake_urgency       0.95      0.68      0.80        57
+  forced_continuity       0.50      0.08      0.13        13
+hidden_subscription       0.00      0.00      0.00        12
+       misdirection       0.93      0.69      0.79        39
+               none       0.77      0.99      0.86       271
+        obstruction       1.00      0.07      0.13        14
+       social_proof       0.94      0.94      0.94        63
+
+           accuracy                           0.84       578
+          macro avg       0.67      0.49      0.51       578
+       weighted avg       0.81      0.84      0.80       578
+
+--------------------------------------------------
+🔹 Linear SVM
+Accuracy: 0.8841
+                     precision    recall  f1-score   support
+
+     confirmshaming       0.75      0.69      0.72        13
+      fake_scarcity       0.97      0.93      0.95        96
+       fake_urgency       0.87      0.81      0.84        57
+  forced_continuity       0.55      0.85      0.67        13
+hidden_subscription       0.30      0.25      0.27        12
+       misdirection       0.78      0.74      0.76        39
+               none       0.92      0.94      0.93       271
+        obstruction       0.82      0.64      0.72        14
+       social_proof       0.92      0.97      0.95        63
+
+           accuracy                           0.88       578
+          macro avg       0.76      0.76      0.76       578
+       weighted avg       0.89      0.88      0.88       578
+
+--------------------------------------------------
+
+🏆 BEST MODEL: Linear SVM
+Accuracy: 0.884083044982699
+🔹 Generating confusion matrix...
+🔹 Saving model and vectorizer...
+✅ Saved successfully
+
+📊 FINAL RESULTS:
+Logistic Regression: 0.8581
+Naive Bayes: 0.8374
+Linear SVM: 0.8841
+
+🔥 Pipeline Completed Successfully

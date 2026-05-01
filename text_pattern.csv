@@ -349,7 +349,7 @@
 348,"Cancel by mailing us and waiting 10 business days for processing.",obstruction,anonymous
 349,"Limited edition – only 4 pieces remain.",fake_scarcity,anonymous
 350,"No thanks, I'll pay without the 40% coupon.",confirmshaming,anonymous
-351,"Your card will be charged ₹799 every month after free trial.",hidden_subscription,anonymous
+351,"Your card will be charged ₹799 every month after free trial.",forced_continuity,anonymous
 352,"Price increases in 0:00:20 – buy now!",fake_urgency,anonymous
 353,"Ignore 50% off? Press 'Continue without discount'.",confirmshaming,anonymous
 354,"Only 2 items left – last chance to buy.",fake_scarcity,anonymous
@@ -438,7 +438,7 @@
 437,"Price shown includes automatic currency conversion at checkout.",hidden_subscription,anonymous
 438,"Premium features active. Standard billing applies after trial.",hidden_subscription,anonymous
 439,"Your saved card will be charged ₹499 for next billing cycle.",hidden_subscription,anonymous
-440,"Auto-renewal enabled. You will receive recurring charges every month.",hidden_subscription,anonymous
+440,"Auto-renewal enabled. You will receive recurring charges every month.",forced_continuity,anonymous
 441,"Subscription continues until cancelled. Next payment due in 7 days.",hidden_subscription,anonymous
 442,"You have been enrolled in automatic delivery every 30 days.",hidden_subscription,anonymous
 443,"Recurring billing active. ₹199 will be charged on the same date monthly.",hidden_subscription,anonymous
